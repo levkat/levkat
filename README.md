@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levkat
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning c
+- 👀 Mostly busy with Process Automation and IaC
+  
 <!--- - 💞️ I’m looking to collaborate on ---> 
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/levkatsev)
 
