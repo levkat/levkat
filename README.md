@@ -2,7 +2,11 @@
 
 👀 **Focused on Process Automation, Infrastructure as Code (IaC), and Backend/API Development**
 
-I’m a DevOps Engineer specializing in **process automation**, backend development and building scalable systems using **Infrastructure as Code (IaC)**. My focus is on automating infrastructure, streamlining operations, and ensuring consistent environments. I’m driven by the goal of reducing manual effort and minimizing risks through effective automation.
+I’m a DevOps Engineer specializing in **process automation**, backend development and building scalable systems using **Infrastructure as Code (IaC)**. 
+
+My focus is on automating infrastructure, streamlining operations, and ensuring consistent environments.
+
+I’m driven by the goal of reducing manual effort and minimizing risks through effective automation.
 
 🔧 **Technologies & Tools I Work With:**
 - 🛠️ **Infrastructure as Code (IaC)**: Terraform, Ansible, Helm, ArgoCD
